@@ -1,4 +1,5 @@
-<div align="center">
+
+<div align="center" style="color:blue;">
 
 <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/> **Hey you! Welcome to my profile...enjoy!** 👾
 <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/>
