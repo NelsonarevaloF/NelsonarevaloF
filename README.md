@@ -1,10 +1,7 @@
 
 <div align="center">
 
-<img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/> **Hey you! Welcome to my profile...enjoy!** 👾
-<img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gandalf_parrot.gif" width="30px"/>
-
-
+<div align="center"><img src="img/background-profile.jpg" />
 <div align="center"><img src="img/background-profile.jpg" width="900" height="675"/>
 
 
