@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<div align="center"><img src="img/background-profile.jpg" />
+<div align="center"><img src="img/name-animate.gif" />
 <div align="center"><img src="img/background-profile.jpg" width="900" height="675"/>
 
 
