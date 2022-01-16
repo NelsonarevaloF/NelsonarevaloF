@@ -20,8 +20,8 @@
 
 📫 **How to reach me:**
 
-[<img align="center" alt="contact | Twitter" width="42px" src="img/icon-twitter.svg" />](https://twitter.com/julianamonroy03)
-[<img align="center" alt="contact | LinkedIn" width="42px" src="img/icon-linkedin.svg" />](https://www.linkedin.com/in/juliana-monroy-perez/)
-[<img align="center" alt="contact | Instagram" width="42px" src="img/icon-insta.svg" />](https://www.instagram.com/julianamonr03/)
+[<img align="center" alt="contact | Twitter" width="42px" src="img/icon-twitter.svg" />](https://twitter.com/Near_Fuentes)
+[<img align="center" alt="contact | LinkedIn" width="42px" src="img/icon-linkedin.svg" />](https://www.linkedin.com/in/near-fuentes/)
+[<img align="center" alt="contact | Instagram" width="42px" src="img/icon-insta.svg" />](https://www.instagram.com/near_fuente/)
 
 <div align="center"><img src="img/end-animate.gif" width="900" height="300"/>
