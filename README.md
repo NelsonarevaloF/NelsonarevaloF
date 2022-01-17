@@ -7,7 +7,7 @@
 
 --------
 
-# Hello
+# Hello 👋
   
 <p align="left">
 I am a full stack developer passionate about the world of design, music, and science. In that place I upload all my creations, I love working on projects that impact the world and change lives. I specialize in the Front-end with languages such as HTML <img src="https://img.icons8.com/color/22/000000/html-5--v1.png"/>, CSS <img src="https://img.icons8.com/color/22/000000/css3.png"/>, JAVASCRIPT <img src="https://img.icons8.com/color/22/000000/javascript--v1.png"/>, REACT <img src="https://img.icons8.com/color/22/000000/react-native.png"/>, BOOSTRAP <img src="https://img.icons8.com/color/22/000000/bootstrap.png"/> AND TAILWIND, however I also find the world of the back-end fascinating, in fact most of this profile has Python <img src="https://img.icons8.com/fluency/22/000000/python.png"/> and <img src="https://img.icons8.com/color/22/000000/c-programming.png"/> projects
