@@ -11,16 +11,18 @@
   
 <p align="left">
 I am a full stack developer passionate about the world of design, music, and science. In that place I upload all my creations, I love working on projects that impact the world and change lives. I specialize in the Front-end with languages such as HTML <img src="https://img.icons8.com/color/22/000000/html-5--v1.png"/>, CSS <img src="https://img.icons8.com/color/22/000000/css3.png"/>, JAVASCRIPT <img src="https://img.icons8.com/color/22/000000/javascript--v1.png"/>, REACT <img src="https://img.icons8.com/color/22/000000/react-native.png"/>, BOOSTRAP <img src="https://img.icons8.com/color/22/000000/bootstrap.png"/> AND TAILWIND, however I also find the world of the back-end fascinating, in fact most of this profile has Python <img src="https://img.icons8.com/fluency/22/000000/python.png"/> and <img src="https://img.icons8.com/color/22/000000/c-programming.png"/> projects
-</p
+</p>
   
   
 
 <!--  GitHub Stats --->
-<a><img width="425" img align="center" alt="Juliana's Stats" src="https://github-readme-stats.vercel.app/api?username=julianamonr03&show_icons=true&theme=radical" />
-</a><a><img width="419" img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamonr03&layout=compact&hide=perl&theme=radical" /></a>
-
-  
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonarevaloF &theme=radical)
+ 
+<div>  
+<a><img width="425" img align="center" alt="Juliana's Stats" src="https://github-readme-stats.vercel.app/api?username=NelsonarevaloF&show_icons=true&theme=cobalt2" /></a>
+</div>
+<div>
+<a><img align="center" alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonarevaloF&theme=cobalt2"/></a>
+</div>
 
 <!-- Contact info -->
 <div align="center">
