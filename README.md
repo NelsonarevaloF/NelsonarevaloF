@@ -2,7 +2,6 @@
 <div align="center">
 
 <div align="center"><img src="img/name-animate.gif" marginwidth=0px marginheight="0" />
-<div align="center"><img src="img/background-profile.jpg" width="900" height="675" marginwidth=0px marginheight="0" />
 
 
 --------
